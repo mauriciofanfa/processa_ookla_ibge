@@ -1,0 +1,8 @@
+requests>=2.31
+pandas>=2.0
+geopandas>=1.0
+shapely>=2.0
+tqdm>=4.66
+
+# Dependência opcional recomendada para leitura mais rápida de arquivos geoespaciais.
+# pyogrio>=0.7
