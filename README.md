@@ -4,6 +4,8 @@ Este repositório contém o script `processa_ookla_ibge.py`, desenvolvido para p
 
 O produto principal é uma coleção de séries históricas em CSV com a velocidade média de download, ponderada pelo número de dispositivos observados, para municípios, regiões geográficas imediatas, regiões geográficas intermediárias, grandes regiões, regionalização Quatro Brasis de Milton Santos e Maria Laura Silveira e Brasil.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23374280.svg)](https://doi.org/10.5281/zenodo.23374280)
+
 ## Apresentação
 
 Os dados apresentam uma série histórica das médias de velocidade de download agregadas por municípios e regiões brasileiras. Podem ser utilizados em estudos de história e geografia da internet brasileira dedicados a compreender mudanças e características do período.
